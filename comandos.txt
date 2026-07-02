@@ -1,0 +1,6 @@
+//cria tabela
+    CREATE TABLE nome_da_tabela(atributos_da_tabela);
+
+//le todos os dados da tabela
+    SELECT * FROM nome_da_tabela;
+
